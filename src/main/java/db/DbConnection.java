@@ -12,7 +12,7 @@ public class DbConnection {
 
     /**
      *
-     * This is a helper class to interact with db
+     * This is a helper class to interact with MySQL Database tables
      * You are free to enhance this class as needed
      *
      * */
